@@ -13,6 +13,6 @@ In this project, was analyzed a dataset from [kaggle](https://www.kaggle.com/dat
 
 **Data Visualization**
 
-Seaborn and Matplotlib were used in the project to create visual representations of the data.
+Seaborn and Matplotlib libraries were used in the project to create visual representations of the data.
 
 
