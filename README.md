@@ -6,10 +6,10 @@ In this project, was analyzed a dataset from [kaggle](https://www.kaggle.com/dat
 
 **Data Cleaning and Preprocessing**
 
-*Identify and handl missing values
-*Data normalization
-*String manipulation and cleaning
-*Data visualization
+* Identify and handl missing values
+* Data normalization
+* String manipulation and cleaning
+* Data visualization
 
 **Data Visualization**
 
